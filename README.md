@@ -1,4 +1,8 @@
-# Loan Helper
+# Loan Helper 💸
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ## Project Description
 Loan Helper is a Python-based application that helps users determine their loan eligibility based on the following criteria:
@@ -13,14 +17,14 @@ The application provides:
 
 ---
 
-## Features
-- Eligibility evaluation based on user inputs.
-- History tracking for previous checks.
-- API endpoints to integrate with other applications.
+## Features ✨
+- **Eligibility Evaluation**: Quick loan eligibility checks.
+- **History Tracking**: Keeps records of all eligibility checks.
+- **API Endpoints**: Seamless integration into other applications.
 
 ---
 
-## Requirements
+## Requirements 🛠️
 To run the Loan Helper application locally, ensure you have:
 - Python 3.x installed on your system.
 - Required libraries:
@@ -35,7 +39,7 @@ pip install json
 
 ---
 
-## Setup and Running
+## Setup and Running 🏃‍♂️
 ### Steps to Run Locally
 1. **Clone the Repository**:
    ```bash
@@ -52,11 +56,11 @@ pip install json
    python loan_helper.py
    ```
 
-4. The server will start running at `http://127.0.0.1:8080`.
+4. Open your browser and navigate to `http://127.0.0.1:8080`.
 
 ---
 
-## API Endpoints
+## API Endpoints 🌐
 ### 1. Check Loan Eligibility
 **Endpoint**: `POST /check_eligibility`
 
@@ -111,7 +115,7 @@ pip install json
 
 ---
 
-## Testing the Application
+## Testing the Application 🧪
 ### Using Postman
 #### Test Eligibility Check
 - **URL**: `http://127.0.0.1:8080/check_eligibility`
@@ -138,7 +142,7 @@ pip install json
 
 ---
 
-## Contribution
+## Contribution 🤝
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -148,15 +152,15 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## License
+## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-## Contact
+## Contact 📧
 For inquiries, contact the team:
-- **Project Leader**: Tanmay Bhupendra Sonawane
-- **Group Member 1**: Mayur Ramchandra Ranode
-- **Group Member 2**: Prathmesh Ravindra Dhekane
-- **Group Member 3**: Tanishka Amit Pansare
+- **Tanmay Bhupendra Sonawane**: [tanmaysonawane007@gmail.com](mailto:tanmaysonawane007@gmail.com)
+- **Mayur Ramchandra Ranode**: [mayurranode7@gmail.com](mailto:mayurranode7@gmail.com)
+- **Prathmesh Ravindra Dhekane**: [prathmesh2003dhekane@gmail.com](mailto:prathmesh2003dhekane@gmail.com)
+- **Tanishka Amit Pansare**: [tanishkapansare5555@gmail.com](mailto:tanishkapansare5555@gmail.com)
 

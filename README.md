@@ -1,6 +1,6 @@
 # Loan Helper 💸
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12.3-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
